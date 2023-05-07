@@ -576,6 +576,18 @@ video {
   margin-left: 6.px;
 }
 
+.mr-\[6\.48px\]{
+  margin-right: 6.48px;
+}
+
+.mr-\[96px\]{
+  margin-right: 96px;
+}
+
+.mr-\[40px\]{
+  margin-right: 40px;
+}
+
 .flex{
   display: flex;
 }
@@ -638,6 +650,30 @@ video {
 
 .w-screen{
   width: 100vw;
+}
+
+.w-\[9\.48px\]{
+  width: 9.48px;
+}
+
+.w-\[90\.48px\]{
+  width: 90.48px;
+}
+
+.w-\[91px\]{
+  width: 91px;
+}
+
+.w-\[92px\]{
+  width: 92px;
+}
+
+.w-\[94px\]{
+  width: 94px;
+}
+
+.w-\[95px\]{
+  width: 95px;
 }
 
 .transform{
